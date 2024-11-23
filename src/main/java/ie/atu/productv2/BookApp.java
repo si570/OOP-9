@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class BookApp {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         // display a welcome message
-        System.out.println("Welcome to the Book Viewer");
-        System.out.println();
+        System.out.println("Welcome to the Book Viewer v2");
+        System.out.println(" ");
 
         // perform 1 or more selections
         Scanner sc = new Scanner(System.in);

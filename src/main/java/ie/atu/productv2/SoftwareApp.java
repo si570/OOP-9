@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SoftwareApp {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         // display a welcome message
         System.out.println("Welcome to the Software Viewer");
         System.out.println();

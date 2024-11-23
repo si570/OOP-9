@@ -7,7 +7,6 @@ public class BookDB {
         // get the data for the product from a file or database
         // For now, this code just uses if/else statements
         // to return the correct product data
-
       
             Book myBook = null;
             if (productCode.equalsIgnoreCase("java")) {
