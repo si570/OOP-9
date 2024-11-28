@@ -1,9 +1,11 @@
 package ie.atu.productv1;
 
+import ie.atu.productv3.Product;
+
 import java.text.NumberFormat;
 import java.util.Locale;
 
-public class Book {
+public class Book extends Product {
 
     private String author;
     private String code;
